@@ -21,5 +21,6 @@
                 "path": "./themes/Sewayaki-Dark.json"
             }
         ]
-    }
+    },
+    "icon": "icon.png"
 }
