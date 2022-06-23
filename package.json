@@ -1,0 +1,25 @@
+{
+    "name": "sewayaki-dark",
+    "displayName": "Sewayaki Dark",
+    "description": "A twist on the One Dark Pro theme",
+    "publisher": "Kitsune-Labs",
+    "version": "1.0.0",
+    "engines": {
+        "vscode": "^1.62.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "repository": {
+        "url": "https://github.com/Kitsune-Labs/Sewayaki-Dark"
+    },
+    "contributes": {
+        "themes": [
+            {
+                "label": "Sewayaki Dark",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Sewayaki-Dark.json"
+            }
+        ]
+    }
+}
